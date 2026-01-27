@@ -41,6 +41,7 @@ The following examples implement model-free DRL algorithms (all tested on the Ca
 * [A2C](/model_free/A2C_cartpole.ipynb) (Advantage Actor Critic)
 * [TRPO](/model_free/TRPO_cartpole.ipynb) (Trust Region Policy Optimization, note that in this case, we use the implementation of Stable Baselines 3 instead of providing an implementation to show a state-of-the-art library)
 * [DDPG](/model_free/DDPG_cartpole.ipynb) (Deep Deterministic Policy Gradient)
+* [SAC](/model_free/SAC_cartpole.ipynb) (Soft Actor Critic)
 
 ## Model-based DRL
 For model-based DRL, the only implemented example is [AlphaZero](/model_based/AlphaZero.ipynb) (tested on tic-tac-toe).
@@ -98,7 +99,8 @@ For model-based DRL, the only implemented example is [AlphaZero](/model_based/Al
 | [Example 7.4](/model_free/A2C_cartpole.ipynb)            | Code for the example in the slides |
 | [Example 7.5](/model_free/TRPO_cartpole.ipynb)           | Code for the example in the slides |
 | [Example 7.6](/model_free/DDPG_cartpole.ipynb)           | Code for the example in the slides |
-| [Example 7.7](/model_based/AlphaZero.ipynb)              | Code for the example in the slides |
+| [Example 7.7](/model_free/SAC_cartpole.ipynb)            | Code for the example in the slides |
+| [Example 7.8](/model_based/AlphaZero.ipynb)              | Code for the example in the slides |
 
 # Execution in Google Colab
 
