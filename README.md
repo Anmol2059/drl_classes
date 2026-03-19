@@ -113,7 +113,7 @@ And finally, you can also download the code and execute it in your own machine, 
 # More websites
 
 If you are interested in DRL and want to keep on learning, it might be worthy checking the following resources:
-
+* [Reinforcement Learning: an overview](https://arxiv.org/abs/2412.05265), by Kevin Murphy, is a complete and up-to-date introduction to DRL that includes recent trends.
 * [Spinning up in DRL](https://spinningup.openai.com/en/latest/) is an OpenAI webpage devoted to give an in-depth introduction to DRL, as well as a set of papers to learn more advanced topics. Their documentation is well-written, and their [code](https://github.com/openai/spinningup) is also available and worth checking.
 * [CleanRL](https://github.com/vwxyzjn/cleanrl) is a project that has developed several implementations of DRL algorithms in a single file, in order to facilitate understanding. Their documentation is nice, and it is a code repository worth checking.
 * [Stable Baselines 3](https://github.com/DLR-RM/stable-baselines3) is a high-quality implementation of most DRL algorithms, that is highly recommended if you want to use state-of-the-art implementations of the most popular DRL algorithms. They are a solid alternative to [OpenAI Baselines](https://github.com/openai/baselines).
